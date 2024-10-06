@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brishvil.github.io/sitemap.html.gz
+Sitemap: https://brishvil.github.io/app/sitemap.html.gz
+Sitemap: https://brishvil.github.io/assets/sitemap.html.gz
+Sitemap: https://brishvil.github.io/css/sitemap.html.gz
+Sitemap: https://brishvil.github.io/data/sitemap.html.gz
+Sitemap: https://brishvil.github.io/includes/sitemap.html.gz
+Sitemap: https://brishvil.github.io/item/sitemap.html.gz
+Sitemap: https://brishvil.github.io/src/sitemap.html.gz
